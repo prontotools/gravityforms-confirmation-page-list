@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Gravity Forms Confirmation Page List
- * Plugin URI: http://www.prontotools.io
+ * Plugin URI: https://wordpress.org/plugins/gf-confirmation-page-list
  * Description: Display Confirmation Page of each Gravity Forms.
  * Version: 1.0.0
  * Author: Pronto Tools
