@@ -8,7 +8,9 @@ Copyright: © 2019 Pronto Tools
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
+== Description ==
 Allows you see which Confirmation Pages used in each Gravity Forms. Easily to follow up forms !
+
 
 == Changelog ==
 
