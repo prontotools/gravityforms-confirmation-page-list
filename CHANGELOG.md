@@ -1,3 +1,4 @@
 1.0.0
 
-Show Confirmation Page as new column 
+- Add requirement to Gravity Forms plugin
+- Show Confirmation Page as new column
