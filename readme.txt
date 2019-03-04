@@ -1,5 +1,5 @@
 === Gravity Forms Confirmation Page List ===
-Contributors: prontotools
+Contributors: prontotools, sandsine, mesodiar
 Tags: gravity forms, add-on, confirmations
 Requires at least: 4.5.0
 Tested up to: 4.9.8
