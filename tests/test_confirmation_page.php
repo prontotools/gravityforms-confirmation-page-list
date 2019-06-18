@@ -18,7 +18,7 @@ class GForm_Confirmation_Page_Test extends WP_UnitTestCase {
 		global $wp_filter;
 
 		$this->assertTrue( array_key_exists(
-			'show_confirmations_list_for_each_form',
+			'gfcpl_show_confirmations_list_for_each_form',
 			$wp_filter['gform_form_list_column_confirmation_pages'][ 10 ]
 		));
 	}
@@ -27,7 +27,7 @@ class GForm_Confirmation_Page_Test extends WP_UnitTestCase {
 		global $wp_filter;
 
 		$this->assertTrue( array_key_exists(
-			'add_confirmation_pages_column',
+			'gfcpl_add_confirmation_pages_column',
 			$wp_filter['gform_form_list_columns'][ 10 ]
 		));
 	}
